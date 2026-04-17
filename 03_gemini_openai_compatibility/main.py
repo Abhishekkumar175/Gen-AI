@@ -17,7 +17,7 @@ response = client.chat.completions.create(
         },
         {
             "role": "user",
-            "content": "Explain to me how AI works"
+            "content": "Explain me how to scale system which can handle milions of user"
         }
     ]
 )
