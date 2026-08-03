@@ -51,4 +51,10 @@ No example given → still works.
 Example 3 — Customer Support (Zero-Shot)
 User: My order hasn’t arrived yet.
 Without examples, the model still responds politely (thanks to training + system prompt).
+
+Example 4: Summarization
+
+Prompt:
+Summarize the following paragraph in one sentence:
+[Insert paragraph here]
 """
