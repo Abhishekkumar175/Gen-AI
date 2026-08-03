@@ -20,7 +20,7 @@ examples = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "Solve these problems step by step:\n1) 6 + 4 * 3\n2) (8 - 2) * 5"
+            "content": "Solve these problems step by step:(n1) 6 + 4 * 3(n2) (8 - 2) * 5"
         }
     ],
     temperature=0.2
